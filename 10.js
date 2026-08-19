@@ -1,0 +1,1 @@
+// Remove deeply nested key from object
